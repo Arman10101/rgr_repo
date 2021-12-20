@@ -9,3 +9,4 @@ wrest
 qqs
 school
 git kraken
+fqdn
