@@ -10,4 +10,3 @@ qqs
 school
 git kraken
 fqdn
-city
